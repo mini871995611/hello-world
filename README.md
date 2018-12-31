@@ -1,5 +1,2 @@
 # hello-world
-只是另一个存储库
-这是个好东西
-元旦快乐
-哈哈哈
+Just another repository
